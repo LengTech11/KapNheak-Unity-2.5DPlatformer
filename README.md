@@ -6,9 +6,6 @@
 
 ![](/Screenshot.png)
 
-Playable at:
-https://simmer.io/@rafaelpaz/platformer
-
 Asset Store Packages:
 
 https://assetstore.unity.com/packages/3d/environments/landscapes/p-w-temple-edition-33637
